@@ -17,12 +17,12 @@
     "PASSWORD": "",
     "OTPKEY": "",
     "BOTNAME": "uma",
-    "PREFIX": "/",
+    "PREFIX": "#",
     "ADMINBOT": [
-        "61582493356125"
+        "61588903113992"
     ],
     "NDH": [
-        "61582493356125"
+        ""
     ],
     "DATABASE": {
         "sqlite": {
